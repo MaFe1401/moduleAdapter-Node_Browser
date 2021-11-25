@@ -81,7 +81,7 @@ The `README.md` file is automatically generated from the `src/docs/index.md` fil
 
 # my-rsa
 
-Your package description
+Module for RSA encryption in node and browser.
 
 ## Usage
 
